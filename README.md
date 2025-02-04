@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Angular
+
 <!--
 **dev-david-g/dev-david-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
